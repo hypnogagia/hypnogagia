@@ -3,9 +3,6 @@
   <img src=https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://twitter.com/nikktwts">
-    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=hypnogagia&style=flat-square&color=green" alt=""/>
